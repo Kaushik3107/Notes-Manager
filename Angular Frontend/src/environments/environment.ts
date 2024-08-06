@@ -6,7 +6,7 @@ export const environment = {
   production: true,
   ///// Development Url //////
   // _api: 'http://localhost:5000',
-  _api: 'https://notes-manager-three.vercel.app/',
+  _api: 'https://notes-manager-three.vercel.app',
 };
 
 /*
